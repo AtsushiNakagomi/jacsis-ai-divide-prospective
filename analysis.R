@@ -7,7 +7,7 @@
 #   [Prospective predictors of generative AI initiation, intensity, purposes, and problematic use among Japanese adults: A two-wave panel study]. 
 #   [Journal]. DOI: [will be added on acceptance].
 #
-# Repository: https://github.com/[username]/[repo]
+# Repository: https://github.com/AtsushiNakagomi/jacsis-ai-divide-prospective
 # Author:     Atsushi Nakagomi (anakagomi0211@chiba-u.jp)
 # Updated:    2026-05-10
 # License:    MIT (see LICENSE file)
