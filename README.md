@@ -73,6 +73,6 @@ The code in this repository is released under the MIT License. See `LICENSE` for
 
 ## Contact
 
-Atsushi Nakagomi — a.nakagomi@chiba-u.jp
+Atsushi Nakagomi — anakagomi0211@chiba-u.jp
 Center for Preventive Medicine, Chiba University
 ORCID: [0000-0002-3908-696X](https://orcid.org/0000-0002-3908-696X)
